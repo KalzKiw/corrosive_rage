@@ -145,6 +145,5 @@ config.ini
 ## 📝 Licencia
 MIT License.
 
-## 👨‍💻 Autor
-Tu nombre / alias  
+## 👨‍💻 Autor 
 https://github.com/joseglezherrera
