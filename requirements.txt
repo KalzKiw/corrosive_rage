@@ -1,0 +1,6 @@
+requests
+shodan
+python-dateutil
+python-whois
+sherlock-project
+crtsh
