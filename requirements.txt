@@ -4,3 +4,4 @@ python-dateutil
 python-whois
 sherlock-project
 crtsh
+ttkbootstrap
